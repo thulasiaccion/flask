@@ -17,7 +17,7 @@ community that make adding new functionality easy.
 [Werkzeug]: https://werkzeug.palletsprojects.com/
 [Jinja]: https://jinja.palletsprojects.com/
 
-## A Simple Example
+## A Simple Example Code
 
 ```python
 # save this as app.py
